@@ -1,5 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/1419360294278398086/1420270746625642586/minecraft_title_3.png?ex=68d4c9b5&is=68d37835&hm=750f7fc3268557683eb578274c13405349e21068b3743afe9eb9875348302f7f&" alt="kiiwl" width="1024" height="362">
-</a><p>Oi, meu nome é kiiwl, sou um desenvolvedor Java, faço plugins de Minecraft 1.8.x a 1.21.x, sou apaixonado por criar aplicações escaláveis e robustas.<p>Quando não estou programando, gosto de ler livros ou gravar vídeos, também gosto de ajudar novos desenvolvedores</p></div>
+<img src="https://cdn.discordapp.com/attachments/1419360294278398086/1420847713276133516/minecraft_title_5.png?ex=68d6e30c&is=68d5918c&hm=5e30a1a80a06cf03c71d5ac0923d80920575a80b05bfb567eb1ea7f4ab2be17f&" alt="kiiwl" width="1024" height="362">
+</a><p>Oi, meu nome é Lendario, sou um desenvolvedor Java, faço plugins de Minecraft 1.8.x a 1.21.x, sou apaixonado por criar aplicações escaláveis e robustas.<p>Quando não estou programando, gosto de ler livros ou gravar vídeos, também gosto de ajudar novos desenvolvedores</p></div>
 
 
 
@@ -16,6 +16,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiiwl&layout=compact&theme=dark" alt="Top Languages Card"></div>
 <h2 align="center">📫 Conexões</h2>
-<p align="center">📽 TikTok: <a href="https://tiktok.com/@kiiiwl" target="_blank">kiiwl</a></p>
-<p align="center">🎥 Youtube: <a href="https://youtube.com/@kiiwl" target="_blank">kiiwl</a></p>
-<p align="center">📩 Discord: <a href="https://discord.gg/kiiwl" target="_blank">kiiwl in discord</a></p>
+<p align="center">📽 TikTok: <a href="https://tiktok.com/@.lendariow" target="_blank">lendariow</a></p>
+<p align="center">🎥 Youtube: <a href="https://youtube.com/@kiiwl" target="_blank">lendariow</a></p>
+<p align="center">📩 Discord: <a href="https://discord.gg/lendariow" target="_blank">Lendariow in discord</a></p>
