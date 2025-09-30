@@ -23,6 +23,12 @@
   <img src="https://api.victims.bio/discord/user/discord-arts/1211537233249697845/card" alt="discord" /> 
 </div>
 
+### 🛰 Actually
+
+- 📉 Developer **KirtyMC**
+- 🔌 Estudando e Cursando: **Recursos Humanos**
+  
+
 <h2 align="center">⚡️I Learned </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
