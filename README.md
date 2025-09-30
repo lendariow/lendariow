@@ -1,4 +1,17 @@
-### ✨️ Welcome ✨️
+<h1 align="center">
+✨️ Welcome ✨️
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Bem+Vindo;Melhores+plugins+de+Mini+Games;Lyon+Developments" alt="Typing Animation" />
+</p>
+
+</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=lendariow&label=Visualizacoes&style=flat" /> <img src="https://img.shields.io/badge/MBTI-ISTP-blue?style=flat" /> <img src="https://img.shields.io/badge/ASD-Level_317-yellow?style=flat"/> </p
+
+---
+
+### 
+
 </a><p>Oi, meu nome é Lendario, sou um desenvolvedor Java apaixonado por uma pessoa que não me pertence mais e nunca pertenceu, faço plugins de Minecraft 1.8.x a 1.21.x, amo criar aplicações escaláveis e robustas.<p>Quando não estou programando, gosto de ler livros ou gravar vídeos, também gosto de ajudar novos desenvolvedores</p></div>
 
 
