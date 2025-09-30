@@ -15,6 +15,13 @@
 </a><p>Oi, meu nome é Lendario, sou um desenvolvedor Java apaixonado por uma pessoa que não me pertence mais e nunca pertenceu, faço plugins de Minecraft 1.8.x a 1.21.x, amo criar aplicações escaláveis e robustas.<p>Quando não estou programando, gosto de ler livros ou gravar vídeos, também gosto de ajudar novos desenvolvedores</p></div>
 
 
+<h3 align= 'center'>
+  🥏 Discord Profile
+</h3>
+
+<div align="center">  
+  <img src="https://api.victims.bio/discord/user/discord-arts/1211537233249697845/card" alt="discord" /> 
+</div>
 
 <h2 align="center">⚡️I Learned </h2>
 <div align="center">
