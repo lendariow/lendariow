@@ -12,18 +12,18 @@
 
 ### 
 
-</a><p>Oi, meu nome é Lendario, sou um desenvolvedor Java, faço plugins de Minecraft ``1.8.x a 1.21.x``, amo criar aplicações escaláveis e robustas.<p>Quando não estou programando, gosto de ler livros ou gravar vídeos, também gosto de ajudar novos desenvolvedores</p></div>
+</a><p>Oi, meu nome é Kaiky sou um desenvolvedor Java, faço plugins de Minecraft ``1.8.x a 1.21.x``, amo criar aplicações escaláveis e robustas.<p>Quando não estou programando, gosto de ler livros ou gravar vídeos, também gosto de ajudar novos desenvolvedores</p></div>
 
 
 
 
 <div align="center">  
-  <img src="https://api.victims.bio/discord/user/discord-arts/1211537233249697845/card" alt="discord" /> 
+  <img src="https://api.victims.bio/discord/user/discord-arts/1423704552892272710/card" alt="discord" /> 
 </div>
 
 ### 🛰 Actually
 
-- 📉 Developer **KirtyMC**
+- 📉 Developer **Java**
 - 🔌 Estudando e Cursando: **Recursos Humanos**
 - 🤖 Desenvolvedor de ``BOT's`` de **Discord**
 - 🍃 Construo ``Lobbys`` no **Minecraft**
@@ -78,7 +78,7 @@
 <div align="center" iframesrc="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3998532" style='border:none;'>
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lendariow&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucabased&theme=tokyonight" alt="GitHub Streak" width="400"/></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=eukiq&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucabased&theme=tokyonight" alt="GitHub Streak" width="400"/></p>
 
 
 
