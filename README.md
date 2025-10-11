@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Minecraft+Builder+e+Developer" alt="Typing Animation" />
 </p>
 
-</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=lendariow&label=Visualizacoes&style=flat" /> <img src="https://img.shields.io/badge/MBTI-ISTP-blue?style=flat" /> <img src="https://img.shields.io/badge/ASD-Level_317-yellow?style=flat"/> </p
+</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=eukiq&label=Views&style=flat" /> <img src="https://img.shields.io/badge/MBTI-ISTP-red?style=flat" /> <img src="https://img.shields.io/badge/ASD-Level_317-red?style=flat"/> </p
 
 ---
 
@@ -18,7 +18,7 @@
 
 
 <div align="center">  
-  <img src="https://api.victims.bio/discord/user/discord-arts/1423704552892272710/card" alt="discord" /> 
+  <img src="https://api.victims.bio/discord/user/discord-arts/1423704552892272710/card" alt="discord"/> 
 </div>
 
 ### 🛰 Actually
